@@ -1,7 +1,7 @@
-# PONDer-arduino-processing-
+# PONDer
 
 
-Project Idea Description
+## Project Idea Description
 
 
 * Maintaining proper quality of water is extremely important in today’s world considering its extreme shortage. Fabricating a device that gives a correct indication of the level of water pollution based on significant parameters such as pH, the temperature will help understand the quality of local water bodies.
@@ -13,4 +13,4 @@ Project Idea Description
 * Hence there is dire need to maintain water quality in order to ensure the proper fish culture in India and to uphold the standards of water quality
 
 
-*These objectives are achieved by PONDer, by ensuring a real time water quality management
+*These objectives are achieved by PONDer, by ensuring a real time water quality management*
