@@ -2,7 +2,7 @@
 
 
 ## Project Idea Description
-
+:droplet: :tropical_fish: :fish: :dolphin: :shell: :ocean:
 
 * Maintaining proper quality of water is extremely important in today’s world considering its extreme shortage. Fabricating a device that gives a correct indication of the level of water pollution based on significant parameters such as pH, the temperature will help understand the quality of local water bodies.
 
